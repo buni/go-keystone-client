@@ -1,1 +1,1 @@
-# openstack-client
+# Go Openstack Keystone Client
